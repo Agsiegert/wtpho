@@ -1,7 +1,7 @@
 # What The Pho
 ## Best Pho Restaurant Around!
 
-This project was a collaboration between @Asiegart, @benhorne44, and @thewatts -
+This project was a collaboration between @Agsiegert, @benhorne44, and @thewatts -
 all students of [gSchool](http://gschool.it) under the teaching of @jcasimir.
 
 The project requirements can be found here: [Dinner
